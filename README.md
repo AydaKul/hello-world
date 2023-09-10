@@ -1,2 +1,2 @@
-# hello-world
-super interesting short description
+# hello
+this is a super interesting description
